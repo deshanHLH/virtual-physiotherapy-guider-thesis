@@ -11,4 +11,4 @@ knee osteoarthritis patients.
   and provide corrective feedback.
 
 ## Files
-- `thesis.pdf` — full thesis document
+- `H. L. Hasith Deshan (Project Report) - Virtual Physiotherapy Guider for Knee Ostioarthritis using Computer Vision and Machine Learning (Signed).pdf` — full thesis document
